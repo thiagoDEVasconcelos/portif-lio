@@ -1,0 +1,1 @@
+const manuzinha = "Manu linda maravilhosa toda toda toda, amor da minha vida, cheirosa e gostosa"
